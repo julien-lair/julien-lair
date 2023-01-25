@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julien-lair
 - 👀 I’m interested in developement (HTML, PHP, JS, JQUERY, AJAX, SWIFT, C)
-- 🌱 I’m currently learning *
+- 🌱 I’m currently learning at ESIEA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
