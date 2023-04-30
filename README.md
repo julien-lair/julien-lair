@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @julien-lair
-- 👀 I’m interested in developement (HTML, PHP, JS, JQUERY, AJAX, SWIFT, C)
-- 🌱 I’m currently learning at ESIEA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Bonjour, je suis Julien
+- 👀 je suis intéressé par le développement (HTML, PHP, JS, JQUERY, AJAX, SWIFT, C)
+- 🌱 j'étudie actuellement à l'école d'ingénieur ESIEA
+
 
 <!---
 julien-lair/julien-lair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
