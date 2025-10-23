@@ -1,9 +1,6 @@
-- 👋 Bonjour, je suis Julien
-- 👀 je suis intéressé par le développement (HTML, PHP, JS, JQUERY, AJAX, SWIFT, C)
-- 🌱 j'étudie actuellement à l'école d'ingénieur ESIEA
-
-
-<!---
-julien-lair/julien-lair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Bonjour, je suis Julien
+🎓 Étudiant en Mastère Spécialisé Sécurité de l’Information et des Systèmes à l'ESIEA(MS-SIS)
+💻 Passionné par le développement et la cybersécurité
+🛡️ Compétences : sécurité des réseaux, cryptographie, audit et pentesting, développement sécurisé
+🚀 Toujours en quête de nouveaux défis technologiques et projets innovants
+🌱 Curieux et motivé pour appliquer mes connaissances dans des projets concrets
